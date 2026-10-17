@@ -1,0 +1,10 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# 编辑器
+.vscode/
+.idea/
